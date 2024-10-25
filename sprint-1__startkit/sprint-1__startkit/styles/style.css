@@ -258,7 +258,6 @@ margin-top: 20px;
   text-align:center;
   color:white;
   width: 60%;
-  border: red 1px solid;
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
@@ -272,7 +271,6 @@ margin-top: 20px;
   text-align:center;
   color:white;
   width: 60%;
-  border: red 1px solid;
   line-height:34px;
   font-size: 24px;
   font-weight:normal;
@@ -284,7 +282,6 @@ margin-top: 20px;
   margin-left:auto;
   margin-right:auto;
   width: 1100px;
-  border: red solid 1px;
 }
 
 .kaufman__triangle{
@@ -296,9 +293,7 @@ margin-top: 20px;
   z-index: 0;
 }
 
-/* и элемента  с модификатором вида ключ-значение */
 .table__cell_theme_dark {
-  border: red 1px solid;
   width: 200px;
   color: white;
   margin-right: 0;
