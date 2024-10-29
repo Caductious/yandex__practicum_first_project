@@ -316,3 +316,43 @@ margin-bottom: 0;
   font-size: 24px;
   font-weight: 600;
 }
+
+.footer{
+  min-height:350px;
+  background-color:#1f1f1f;
+  padding-top:60px;
+  padding-bottom:40px;
+  border: red solid 1px;
+}
+
+.footer__columns{
+  display: flex;
+  border: red solid 1px;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90%;
+  margin-left: auto;
+  margin-right:auto;
+  align-items: stretch;
+}
+
+.footer__column_content_copyright{
+  border: red solid 1px;
+  flex-basis:711px;
+}
+
+.footer__column_content_info{
+  border: red solid 1px;
+}
+
+.footer__column_content_social{
+  border: red solid 1px;
+}
+
+.footer__column-link{
+  border: red solid 1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+}
